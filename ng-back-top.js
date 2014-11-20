@@ -1,4 +1,5 @@
 angular.module('backTop', []).
+
 directive('backTop', function($interval){
 	var doc = document;
 
