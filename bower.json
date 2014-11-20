@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "https://github.com/guoyinfeng"
+    "name": "https://github.com/GYF1"
   },
   "name": "ngbacktop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "ng-back-top.js",
   "ignore": [
     "/.idea",
