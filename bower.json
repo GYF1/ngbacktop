@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "https://github.com/guoyinfeng"
+  },
+  "name": "ngbacktop",
+  "version": "0.0.1",
+  "main": "ng-back-top.js",
+  "ignore": [
+    "/.idea",
+    "demo.html",
+    "demo.css",
+    "demo.js",
+    "doc",
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2"
+  }
+}
