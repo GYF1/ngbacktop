@@ -3,7 +3,7 @@
     "name": "https://github.com/GYF1"
   },
   "name": "ngbacktop",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "ng-back-top.js",
   "ignore": [
     "/.idea",
